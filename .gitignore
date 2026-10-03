@@ -1,4 +1,7 @@
-.Rproj.user
+# .gitignore for this project
 .Rhistory
 .RData
-.Ruserdata
+.Rproj.user/
+data/
+*.rds
+figures/*.png
